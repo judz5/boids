@@ -13,3 +13,7 @@ This is another random Cellular Automata that caught my attention this summer. P
 
     Click - Spawn boid
     Escape - Exit
+
+---
+
+![](https://github.com/judz5/boids/blob/main/boid-clip.gif)
